@@ -4,11 +4,7 @@ def square_array(array)
  #    newArray.push(item**2)
  #  end
  #  return newArray
- array.collect do |item|
-   item**2
- end
- puts array
- return array
+ array.collect {|n| n*n}
 end
 
 woo = [3, 4, 3]
