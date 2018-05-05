@@ -7,7 +7,7 @@ def square_array(array)
  array.collect do |item|
    item**2
  end
- prints array
+ puts array
  return array
 end
 
