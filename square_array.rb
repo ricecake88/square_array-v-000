@@ -9,5 +9,5 @@ def square_array(array)
  end
 end
 
-whoo = [1, 2, 3]
+woo = [1, 2, 3]
 square_array(woo)
