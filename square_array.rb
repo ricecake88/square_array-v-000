@@ -8,3 +8,6 @@ def square_array(array)
    item**2
  end
 end
+
+whoo = [1, 2, 3]
+square_array(woo)
