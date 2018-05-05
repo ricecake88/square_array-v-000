@@ -7,6 +7,7 @@ def square_array(array)
  array.collect do |item|
    item**2
  end
+ return array
 end
 
 woo = [1, 2, 3]
