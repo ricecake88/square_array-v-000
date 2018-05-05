@@ -11,4 +11,5 @@ def square_array(array)
 end
 
 woo = [1, 2, 3]
-puts square_array(woo)
+yay = square_array(woo)
+puts yay
