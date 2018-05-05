@@ -10,4 +10,4 @@ def square_array(array)
 end
 
 woo = [1, 2, 3]
-square_array(woo)
+print square_array(woo)
